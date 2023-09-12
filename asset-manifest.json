@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Random-Quote-Machine/static/css/main.0092462c.css",
+    "main.js": "/Random-Quote-Machine/static/js/main.61979b0b.js",
+    "static/js/787.e4ae0a49.chunk.js": "/Random-Quote-Machine/static/js/787.e4ae0a49.chunk.js",
+    "index.html": "/Random-Quote-Machine/index.html",
+    "main.0092462c.css.map": "/Random-Quote-Machine/static/css/main.0092462c.css.map",
+    "main.61979b0b.js.map": "/Random-Quote-Machine/static/js/main.61979b0b.js.map",
+    "787.e4ae0a49.chunk.js.map": "/Random-Quote-Machine/static/js/787.e4ae0a49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0092462c.css",
+    "static/js/main.61979b0b.js"
+  ]
+}
