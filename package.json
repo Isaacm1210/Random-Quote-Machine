@@ -1,7 +1,8 @@
 {
-  "homepage": "https://Isaacm1210.github.io/random-quote-machine/",
+  
   "name": "random-quote-machine",
   "version": "0.1.0",
+  "homepage": "https://Isaacm1210.github.io/random-quote-machine/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
